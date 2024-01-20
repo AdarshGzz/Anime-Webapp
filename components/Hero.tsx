@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Navbar from "./Navbar";
 
 function Hero() {
   return (
